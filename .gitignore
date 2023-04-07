@@ -1,0 +1,10 @@
+
+scraper/data/*
+scraper/output/captera_scrape.csv
+scraper/node_modules
+vendor
+composer.lock
+seeds/askinglot.com/*.txt
+seeds/everythingwhat.com/*.txt
+*.txt
+.env
